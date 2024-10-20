@@ -6,9 +6,9 @@ DATA : This is a historical dataset on Olympic games, including all the games fr
 NOTE : This analysis is primarily on Summer Olympics.
 
 Olympics Data Analysis has:
-Data Cleaning and Understanding
-My Observations
-Summer Olympics
-Summer Data Description
-Top Countries Participation
+Data Cleaning and Understanding,
+My Observations,
+Summer Olympics,
+Summer Data Description,
+Top Countries Participation,
 Gender Participation
